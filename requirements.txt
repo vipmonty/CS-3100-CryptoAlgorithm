@@ -1,0 +1,4 @@
+-e git+https://github.com/vipmonty/CS-3100-CryptoAlgorithm.git@00acab1f8b4cffc9052cd5a0c8a749fa3bdf0749#egg=algorithm_package
+cffi==2.0.0
+cryptography==46.0.1
+pycparser==2.23
